@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "315165501732",
+    "project_id": "beefit-4cdb8",
+    "storage_bucket": "beefit-4cdb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315165501732:android:86e5969edf28c023836bb1",
+        "android_client_info": {
+          "package_name": "com.example.beefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315165501732-2tf4l9gcpehcif8g5elqt8pkmaogbfts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beefit",
+            "certificate_hash": "02e440d0454be0e35fc92eab5190504114f026a8"
+          }
+        },
+        {
+          "client_id": "315165501732-i2kmeau75c1v2vl4rt59e72rvcstpnqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMw8lhBhR-_07xPmSBckQYpQg0VHFtm0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315165501732-i2kmeau75c1v2vl4rt59e72rvcstpnqc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "315165501732-4c6g4nq6i1ft0svqhmvnuhb216e88dof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beefit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
